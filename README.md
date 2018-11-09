@@ -1,5 +1,5 @@
 # cis137-work
-- HTML HOME
+
 - HTML Introduction
 - HTML Editors
 - HTML Basic
