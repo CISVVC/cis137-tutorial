@@ -1,7 +1,7 @@
 # cis137-work
 
-- Introduction
-- Editors
+## [Introduction](./introduction)
+## [Editors](./editors)
 - Basic
 - Elements
 - Attributes
